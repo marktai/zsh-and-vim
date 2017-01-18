@@ -11,7 +11,7 @@ install: package clean
 	tar -xzf settings.tar.gz -C tmp
 	-mkdir -m 700 ~/.ssh
 	mv tmp/authorized_keys ~/.ssh
-	mv tmp/* ~/
+	mv tmp/* tmp/.* ~/
 
 clean:
 	rm -rf tmp *.tar.gz
