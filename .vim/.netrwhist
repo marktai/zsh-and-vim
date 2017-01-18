@@ -1,8 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/mark/repos/startbootstrap-clean-blog/img'
-let g:netrw_dirhist_2='/home/mark/.vim'
-let g:netrw_dirhist_3='/etc/nginx/conf.d'
-let g:netrw_dirhist_4='/home/mark/repos/marktai.com/src/github.com'
-let g:netrw_dirhist_5='/home/mark/.vim'
-let g:netrw_dirhist_6='/opt/www/marktai.com/pages'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/mtai/repos/g502-notifier/src/subredditCrawler'
+let g:netrw_dirhist_2='/home/mtai/repos/emily-birthday/pages'
+let g:netrw_dirhist_3='/home/mtai/repos/emily-birthday/pages/home'
+let g:netrw_dirhist_4='/home/mtai/.vim'

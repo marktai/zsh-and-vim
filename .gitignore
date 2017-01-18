@@ -1,11 +1,3 @@
-# ignore everything
-*
-# Now, whitelist anything that's a directory
-# And all the file types you're interested in.
-
-!.vim
-!.vim/*
-!.vim/*/*
-!.zshrc
-!.dircolors
-!.gitignore
+#not trying to expose even my public year
+authorized_keys
+*.tar.gz
