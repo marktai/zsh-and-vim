@@ -1,3 +1,4 @@
 #not trying to expose even my public year
 authorized_keys
 *.tar.gz
+.git
