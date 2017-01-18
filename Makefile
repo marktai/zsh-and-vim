@@ -1,10 +1,10 @@
 default: install
 
 copy: clean_src
-	rsync -a ~/.vim* ~/.zshrc ~/.oh-my-zsh ~/.ssh/authorized_keys ~/.tmux.conf . --exclude=.vim/_backup/* --exclude=.vim/_swap/* .
+	rsync -a ~/.vim* ~/.zshrc ~/.oh-my-zsh ~/.ssh/authorized_keys ~/.tmux.conf . --exclude=.vim/_backup/* --exclude=.vim/_swap/* --exclude=.vim/_undo/* . 
 
 package: clean
-	tar -czf settings.tar.gz .vim* .zshrc .oh-my-zsh authorized_keys .tmux.conf --exclude=.vim/_backup/* --exclude=.vim/_swap/*
+	tar -czf settings.tar.gz .vim* .zshrc .oh-my-zsh authorized_keys .tmux.conf
 
 install: package clean
 	mkdir tmp

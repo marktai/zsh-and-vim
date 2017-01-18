@@ -155,21 +155,22 @@ $
 	settings.tar.gz 
 
 # File marks:
-'0  3  11  ~/repos/zsh-and-vim/Makefile
-'1  17  8  ~/repos/zsh-and-vim/Makefile
-'2  1  0  ~/repos/zsh-and-vim/.zshrc
-'3  9  21  ~/repos/zsh-and-vim/Makefile
-'4  1  0  ~/repos/zsh-and-vim/copySettings.sh
-'5  6  8  ~/repos/zsh-and-vim/Makefile
-'6  2  0  ~/repos/zsh-and-vim/copySettings.sh
-'7  3  7  ~/repos/zsh-and-vim/.gitignore
-'8  1  0  ~/repos/zsh-and-vim/.gitig
-'9  3  0  ~/repos/zsh-and-vim/exportSettings.sh
+'0  4  148  ~/repos/zsh-and-vim/Makefile
+'1  3  11  ~/repos/zsh-and-vim/Makefile
+'2  17  8  ~/repos/zsh-and-vim/Makefile
+'3  1  0  ~/repos/zsh-and-vim/.zshrc
+'4  9  21  ~/repos/zsh-and-vim/Makefile
+'5  1  0  ~/repos/zsh-and-vim/copySettings.sh
+'6  6  8  ~/repos/zsh-and-vim/Makefile
+'7  2  0  ~/repos/zsh-and-vim/copySettings.sh
+'8  3  7  ~/repos/zsh-and-vim/.gitignore
+'9  1  0  ~/repos/zsh-and-vim/.gitig
 
 # Jumplist (newest first):
+-'  4  148  ~/repos/zsh-and-vim/Makefile
+-'  1  0  ~/repos/zsh-and-vim/Makefile
 -'  3  11  ~/repos/zsh-and-vim/Makefile
 -'  15  0  ~/repos/zsh-and-vim/Makefile
--'  1  0  ~/repos/zsh-and-vim/Makefile
 -'  17  8  ~/repos/zsh-and-vim/Makefile
 -'  1  0  ~/repos/zsh-and-vim/.zshrc
 -'  9  21  ~/repos/zsh-and-vim/Makefile
@@ -267,9 +268,9 @@ $
 # History of marks within files (newest to oldest):
 
 > ~/repos/zsh-and-vim/Makefile
-	"	3	11
-	^	3	12
-	.	3	11
+	"	4	148
+	^	4	149
+	.	4	148
 	+	21	0
 	+	1	0
 	+	10	0
@@ -300,6 +301,8 @@ $
 	+	20	0
 	+	20	0
 	+	3	11
+	+	7	76
+	+	4	148
 
 > ~/repos/zsh-and-vim/.zshrc
 	"	1	0
